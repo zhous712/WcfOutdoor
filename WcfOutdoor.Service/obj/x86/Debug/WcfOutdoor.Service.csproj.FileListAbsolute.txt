@@ -1,0 +1,3 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\WcfOutdoor.Service\obj\x86\Debug\WcfOutdoor.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\WcfOutdoor.Service\obj\x86\Debug\WcfOutdoor.Service.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\WcfOutdoor.Service\obj\x86\Debug\WcfOutdoor.Service.csproj.GenerateResource.Cache

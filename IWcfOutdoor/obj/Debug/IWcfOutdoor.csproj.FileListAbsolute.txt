@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\bin\Debug\IWcfOutdoor.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\bin\Debug\IWcfOutdoor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\bin\Debug\RadioSmart.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\bin\Debug\ChnCharInfo.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\obj\Debug\IWcfOutdoor.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WcfOutdoor\IWcfOutdoor\obj\Debug\IWcfOutdoor.pdb
